@@ -12,7 +12,7 @@ Explore the incredible projects created by our talented students at **Projection
 
 1. **[Apna Tour & Travel](https://projection13.github.io/sandeep-rajput.apna-tour-travel/)**
    - **Student**: Sandeep Rajput
-   - **Description**: Apna Tour & Travel is a live travel project developed by [Sandeep Rajput], using HTML, CSS, BootStrap and JavaScript. This web application allows users to explore and plan trips to various global destinations. With features like destination guides, hotel bookings, and interactive maps. 
+   - **Description**: Apna Tour & Travel is a live travel project developed by *Sandeep Rajput*, using HTML, CSS, BootStrap and JavaScript. This web application allows users to explore and plan trips to various global destinations. With features like destination guides, hotel bookings, and interactive maps. 
 
 2. **[Softy Pinko](https://ishu456.github.io/CLIENT-WEBSITE/)**
    - **Student**: Ishu Anand Malviya
