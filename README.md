@@ -4,7 +4,7 @@
 
 ## 🎓 Welcome to the Student Projects Showcase! 🚀
 
-Explore the incredible projects created by our talented students at **Projection Training Center Dewas**. Each project is a testament to the hard work, creativity, and skills developed during their time here. Whether you're a new joiner looking for inspiration or an alum revisiting your achievements, this repository is your gateway to the innovative solutions crafted by our learners.
+Explore the incredible projects created by our talented students at **Projection Training Center Dewas**. Each project is a testament to the hard work, creativity, and skills developed during their time here. Whether you're a new joiner looking for inspiration or an alum revisiting your achievements, this repository is your gateway to the innovative projects crafted by our learners.
 
 
 
@@ -29,9 +29,9 @@ Explore the incredible projects created by our talented students at **Projection
 
 Have any questions or need more information? We’re here to help! Feel free to reach out to us:
 
-- **Email**: [hr@projectiononline.com]
+- **Email**: hr@projectiononline.com
 - **Phone**: +91 93992 02873, +91 96175 69993
-- **Website**: (http://www.projectiononline.com)
+- **Website**: http://www.projectiononline.com
 - **Location**: 05, Shyam Plaza, Patwardhan Marg, Behind The Grace Church, Dewas (M.P.)
 
 
