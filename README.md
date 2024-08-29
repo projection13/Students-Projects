@@ -10,17 +10,17 @@ Explore the incredible projects created by our talented students at **Projection
 
 ### 🌟 Featured Projects
 
-1. **[Softy Pinko](https://ishu456.github.io/CLIENT-WEBSITE/)**
-   - **Student**: Ishu Anand Malviya
-   - **Description**: A sleek web application to manage your daily tasks and boost productivity.
-
-2. **[Apna Tour & Travel](https://projection13.github.io/sandeep-rajput.apna-tour-travel/)**
+1. **[Apna Tour & Travel](https://projection13.github.io/sandeep-rajput.apna-tour-travel/)**
    - **Student**: Sandeep Rajput
-   - **Description**: An AI-powered chatbot designed to enhance customer service by providing instant responses.
+   - **Description**: Apna Tour & Travel is a live travel project developed by [Sandeep Rajput], using HTML, CSS, BootStrap and JavaScript. This web application allows users to explore and plan trips to various global destinations. With features like destination guides, hotel bookings, and interactive maps. 
 
-3. **[Fitness App](http://projectlink.com)**
-   - **Student**: Mike Johnson
-   - **Description**: A mobile app that helps users track their workouts and stay motivated with personalized fitness plans.
+2. **[Softy Pinko](https://ishu456.github.io/CLIENT-WEBSITE/)**
+   - **Student**: Ishu Anand Malviya
+   - **Description**: Softy Pinko is a business networking platform designed using HTML, CSS, BootStrap and JavaScript. This responsive web application enables professionals to connect, collaborate, and grow their businesses.
+
+3. **[Travela Web App](https://projection13.github.io/hussaid_shah/)**
+   - **Student**: Hussaid Shah
+   - **Description**: Travela is your ultimate travel companion, built using HTML, CSS, BootStrap and JavaScript. This responsive web application allows users to plan their entire trip in one place, from flights and accommodations to activities and local attractions. 
 
 
 
