@@ -14,8 +14,8 @@ Explore the incredible projects created by our talented students at **Projection
    - **Student**: Ishu Anand Malviya
    - **Description**: A sleek web application to manage your daily tasks and boost productivity.
 
-2. **[Apna Tour & Travel]([http://projectlink.com](https://projection13.github.io/sandeep-rajput.apna-tour-travel/))**
-   - **Student**: Jane Smith
+2. **[Apna Tour & Travel](https://projection13.github.io/sandeep-rajput.apna-tour-travel/)**
+   - **Student**: Sandeep Rajput
    - **Description**: An AI-powered chatbot designed to enhance customer service by providing instant responses.
 
 3. **[Fitness App](http://projectlink.com)**
