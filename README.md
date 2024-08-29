@@ -10,7 +10,7 @@ Explore the incredible projects created by our talented students at **Projection
 
 ### 🌟 Featured Projects
 
-1. **[Softy Pinko]((https://ishu456.github.io/CLIENT-WEBSITE/))**
+1. **[Softy Pinko](https://ishu456.github.io/CLIENT-WEBSITE/)**
    - **Student**: Ishu Malviya
    - **Description**: A sleek web application to manage your daily tasks and boost productivity.
 
