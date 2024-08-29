@@ -10,8 +10,8 @@ Explore the incredible projects created by our talented students at **Projection
 
 ### 🌟 Featured Projects
 
-1. **[Task Tracker Pro](http://projectlink.com)**
-   - **Student**: John Doe
+1. **[Softy Pinko]((https://ishu456.github.io/CLIENT-WEBSITE/))**
+   - **Student**: Ishu Malviya
    - **Description**: A sleek web application to manage your daily tasks and boost productivity.
 
 2. **[Smart Customer Support Bot](http://projectlink.com)**
