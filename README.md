@@ -11,10 +11,10 @@ Explore the incredible projects created by our talented students at **Projection
 ### 🌟 Featured Projects
 
 1. **[Softy Pinko](https://ishu456.github.io/CLIENT-WEBSITE/)**
-   - **Student**: Ishu Malviya
+   - **Student**: Ishu Anand Malviya
    - **Description**: A sleek web application to manage your daily tasks and boost productivity.
 
-2. **[Smart Customer Support Bot](http://projectlink.com)**
+2. **[Apna Tour & Travel]([http://projectlink.com](https://projection13.github.io/sandeep-rajput.apna-tour-travel/))**
    - **Student**: Jane Smith
    - **Description**: An AI-powered chatbot designed to enhance customer service by providing instant responses.
 
