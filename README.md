@@ -22,6 +22,11 @@ Explore the incredible projects created by our talented students at **Projection
    - **Student**: Hussaid Shah
    - **Description**: Travela is your ultimate travel companion, built using HTML, CSS, BootStrap and JavaScript. This responsive web application allows users to plan their entire trip in one place, from flights and accommodations to activities and local attractions. 
 
+4. **[Celebration-IT](https://projection13.github.io/ritik-goswami23-celebration-IT/)**
+   - **Student**: Ritik Goswami
+   - **Description**: Celebration-IT is an innovative online platform developed using HTML, CSS, and JavaScript, offering a curated selection of high-quality digital products.The website features a responsive design, ensuring accessibility across all devices, while JavaScript enhances the user experience with dynamic product displays and interactive features. 
+
+
 
 
 
